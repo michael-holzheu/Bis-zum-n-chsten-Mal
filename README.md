@@ -4,4 +4,4 @@
 
 ## Projekt Inhalt
 
- - [Meine erste MPU: Bis zum nächsten Mal!?](https://github.com/michael-holzheu/bis-zum-naechsten-mal/tree/main/Blog/meine-erste-mpu-bis-zum-naechsten-mal.html)
+ - [Meine erste MPU: Bis zum nächsten Mal!?](https://github.com/michael-holzheu/Bis-zum-naechsten-Mal/tree/main/Blog/Meine-erste-MPU-bis-zum-naechsten-Mal.html)
